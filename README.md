@@ -1,2 +1,3 @@
 # contadorPessoas
- Aplicativo de aprendizagem flutter
+
+ Aplicativo desenolvido enquanto estou aprendendo flutter.
